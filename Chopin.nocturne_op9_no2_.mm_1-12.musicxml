@@ -3309,11 +3309,6 @@
         <dot/>
         <stem>down</stem>
         <staff>1</staff>
-        <notations>
-          <ornaments>
-            <wavy-line type="stop" number="1"/>
-            </ornaments>
-          </notations>
         </note>
       <note default-x="190.82" default-y="-5.00">
         <grace/>
