@@ -102,15 +102,6 @@
         <staff>1</staff>
         <sound tempo="60"/>
         </direction>
-      <direction placement="below">
-        <direction-type>
-          <dynamics default-y="-40.00" relative-y="-40.00">
-            <other-dynamics></other-dynamics>
-            </dynamics>
-          </direction-type>
-        <staff>1</staff>
-        <sound dynamics="54.44"/>
-        </direction>
       <note default-x="100.48" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -2032,14 +2023,6 @@
       <backup>
         <duration>24</duration>
         </backup>
-      <direction placement="below">
-        <direction-type>
-          <dynamics default-y="-40.00" relative-y="-40.00">
-            <other-dynamics></other-dynamics>
-            </dynamics>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="12.00" default-y="-121.00">
         <pitch>
           <step>G</step>
@@ -3781,14 +3764,6 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <dynamics default-y="-40.00" relative-y="-40.00">
-            <other-dynamics></other-dynamics>
-            </dynamics>
-          </direction-type>
-        <staff>1</staff>
-        </direction>
       <note default-x="137.91" default-y="-30.00" dynamics="93.33">
         <pitch>
           <step>G</step>
